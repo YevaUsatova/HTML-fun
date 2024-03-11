@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Hometown</title>
+    </head>
+    <body>
+        <h1>Austin, USA</h1>
+        <section>
+            <h2>Location</h2>
+            <p>Austin is located 147 miles west of Houston in Texas.</p>
+        </section>
+        <section>
+            <h2>About</h2>
+            <section>
+                <h3>Weather</h3>
+                <p>It is boiling hot in the summer and freezing cold in the winter.</p>
+            </section>
+            <section>
+                <h3>Population</h3>
+                <p>Arround 1,000 000 people and 3,000 000 bugs here in Austin.</p>
+            </section>
+            <section>
+                <h3>Sports</h3>
+                <p>People keep running in the parks somewhere probably away from bugs.</p>
+            </section>
+        </section>
+        <section>
+            <h2>Things To Do</h2>
+            <ul>
+                <li>Swimming in the river</li>
+                <li>Hiking with bugs</li>
+                <li>Pretend you are in Sahara desert in the summer</li>
+            </ul>
+        </section>
+    </body>
+</html>
